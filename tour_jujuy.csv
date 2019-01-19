@@ -1,23 +1,23 @@
 fecha	hora	coordenadas	descripción	gastos
-20/01/19	08:00:00 AM	-24.1852569, -65.2994789	Partida	$500 c/u (nafta)
+20/01/19	08:00:00 AM	-24.1852569, -65.2994789	Partida	$800 c/u (nafta + comida 4 días)
 20/01/19	10:00:00 AM	-23.57611,-65.39500	Residencial Adep Tilcara Lavalle 545	$600 (hostal)
 20/01/19	10:30:00 AM	-23.58655,-65.40591	Pucará de Tilcara	$150 (entrada)
-20/01/19	11:30:00 AM	-23.5768004, -65.4325098	Huichaira (Tilcara)	
-20/01/19	02:00:00 PM	-23.59278,-65.37622	Garganta del diablo (Tilcara)	
-20/01/19	06:00:00 PM	-23.4335279, -65.3509695	Huacalera (Tilcara)	
-21/01/19	08:00:00 AM	-23.74613,-65.49918	Purmamarca	
+20/01/19	11:30:00 AM	-23.5768004, -65.4325098	Huichaira (Tilcara)	$0.00
+20/01/19	02:00:00 PM	-23.59278,-65.37622	Garganta del diablo (Tilcara)	$0.00
+20/01/19	06:00:00 PM	-23.4335279, -65.3509695	Huacalera (Tilcara)	$0.00
+21/01/19	08:00:00 AM	-23.74613,-65.49918	Purmamarca	$0.00
 21/01/19	09:00:00 AM	-23.59635, -65.88239	Salinas grandes (Purmamarca)	$500 (remis)
-21/01/19	11:00:00 AM	-23.75083,-65.50168	Cerro 7 colores (Purmamarca)	
-21/01/19	02:00:00 PM	23.8575495, -65.4670199	Tumbaya	
-21/01/19	04:00:00 PM	-23.62474,-65.41212	Paleta del pintor (Maimará)	
-21/01/19	05:00:00 PM	-23.65457,-65.43143	Posta de los Hornillos	
-21/01/19	08:00:00 PM	-23.57611,-65.39500	Tilcara	
-22/01/19	08:00:00 AM	-23.20394, -65.34861	Humahuaca	
+21/01/19	11:00:00 AM	-23.75083,-65.50168	Cerro 7 colores (Purmamarca)	$0.00
+21/01/19	02:00:00 PM	23.8575495, -65.4670199	Tumbaya	$0.00
+21/01/19	04:00:00 PM	-23.62474,-65.41212	Paleta del pintor (Maimará)	$0.00
+21/01/19	05:00:00 PM	-23.65457,-65.43143	Posta de los Hornillos	$0.00
+21/01/19	08:00:00 PM	-23.57611,-65.39500	Tilcara	$0.00
+22/01/19	08:00:00 AM	-23.20394, -65.34861	Humahuaca	$0.00
 22/01/19	09:00:00 AM	-23.2792,-65.1633	Serranía del Hornacal	$350 (remis)
-22/01/19	10:30:00 AM	-23.20014,-65.33901	Peña blanca (Humahuaca)	
-22/01/19	12:00:00 PM	-23.20408,-65.34915	Iglesia Humahuaca	
-22/01/19	02:00:00 PM	-23.30433,-65.35710	Uquía (Quebrada de las señoritas)	
-22/01/19	04:00:00 PM	-22.9728550, -65.4576067	Inca cueva	
+22/01/19	10:30:00 AM	-23.20014,-65.33901	Peña blanca (Humahuaca)	$0.00
+22/01/19	12:00:00 PM	-23.20408,-65.34915	Iglesia Humahuaca	$0.00
+22/01/19	02:00:00 PM	-23.30433,-65.35710	Uquía (Quebrada de las señoritas)	$0.00
+22/01/19	04:00:00 PM	-22.9728550, -65.4576067	Inca cueva	$0.00
 22/01/19	06:00:00 PM	-22.72346,-65.69518	Abra Pampa	$350 (hostal)
 23/01/19	8:00:00 AM	-22.77429, -65.72394	Cerro Huancar (Abra Pampa)	$350 (alquiler tabla)
 23/01/19	10:00:00 PM	-22.7912120, -65.2158295	Iruya (Salta)	
